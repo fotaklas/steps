@@ -2,6 +2,10 @@
 
 Ένα μικρό React project για εξάσκηση σε state και conditional rendering.
 
+# Live Demo
+Δες το project live εδώ:
+🔗 https://steps-drab-gamma.vercel.app/
+
 ## Τι κάνει
 
 Η εφαρμογή υλοποιεί ένα απλό “Steps” UI:
